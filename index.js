@@ -48,7 +48,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['Would you', 'like to be',  'my partner?', config.name],
+      strings: ['Happy', 'Birthday',  'Bow', config.name],
       charSize: 30,
       charSpacing: 25,
       lineHeight: 40,
